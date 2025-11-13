@@ -18,4 +18,8 @@ Ejercicio 4:
     1. mkdir dos/dosUna
 
 Ejercicio 5:
-    1.
+    1. cd dos/dosUna
+
+Ejercicio 6:
+    1. touch ../../edad.txt
+
