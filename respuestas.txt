@@ -23,3 +23,5 @@ Ejercicio 5:
 Ejercicio 6:
     1. touch ../../edad.txt
 
+Ejercicio 7:
+    1. rm ../../tres/nombre.txt
