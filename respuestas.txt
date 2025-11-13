@@ -25,3 +25,7 @@ Ejercicio 6:
 
 Ejercicio 7:
     1. rm ../../tres/nombre.txt
+
+Ejercicio 8:
+    1. mv edad.txt dos/dosUna/edad2.txt
+
