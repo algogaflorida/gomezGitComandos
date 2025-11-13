@@ -29,3 +29,6 @@ Ejercicio 7:
 Ejercicio 8:
     1. mv edad.txt dos/dosUna/edad2.txt
 
+Ejercicio 9:
+    1. cd ..
+    2. rm -r examen
