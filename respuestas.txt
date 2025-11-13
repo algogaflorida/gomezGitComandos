@@ -3,5 +3,11 @@ Ejercicio 1:
     2. mkdir examen
     3. cd examen
     4. mkdir una dos tres
-    5. git add .
-    6. git commit -m "Ejercicio 1"
+    5. cd ..
+    6. git add .
+    7. git commit -m "Ejercicio 1"
+
+Ejercicio 2:
+    1. touch una/nombre.txt
+
+Ejercicio 3:
