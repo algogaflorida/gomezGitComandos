@@ -1,0 +1,7 @@
+Ejercicio 1:
+    1. git branch -m primeras
+    2. mkdir examen
+    3. cd examen
+    4. mkdir una dos tres
+    5. git add .
+    6. git commit -m "Ejercicio 1"
